@@ -8,12 +8,13 @@ class FullStackDeveloper
     @name = "Henrique Del Nero Martins de Araújo Lopes"
     @role = "Junior Full Stack Developer"
     @tech_stack = {
-      frontend: ["HTML", "CSS", "JavaScript", "Bootstrap"],
-      backend: ["Ruby", "Rails", "SQL", "ActiveRecord"],
-      devops: ["Docker🐳"],
-      databases: ["PostgreSQL", "MySQL"],
-      misc: ["Sidekiq", "WebSocket", "Action Cable"]
-    }
+  frontend: ["HTML", "CSS", "JavaScript", "Bootstrap"],
+  backend: ["Ruby", "Rails", "SQL", "ActiveRecord"],
+  devops: ["Docker🐳"],
+  databases: ["PostgreSQL", "MySQL"],
+  misc: ["Sidekiq", "WebSocket", "Action Cable", "Figma", "Git", "Heroku", "Linux", "Postman", "React", "Sass", "SQLite",
+ "Vue.js"]
+}
     @current_focus = "Expanding expertise in Ruby on Rails"
   end
 
