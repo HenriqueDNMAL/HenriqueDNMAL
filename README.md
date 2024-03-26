@@ -1,17 +1,45 @@
-<h1 align="center">Hi 👋, I'm Henrique</h1>
-<h3 align="center">A passionate full stack developer from Brazil</h3>
+# Hi there! 👋 I'm Henrique
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=henriquednmal&label=Profile%20views&color=0e75b6&style=flat" alt="henriquednmal" /> </p>
+I'm a passionate Full Stack Developer with a knack for building robust web applications using Ruby on Rails. Here's a glimpse of my developer profile:
 
-- 📫 How to reach me **henrique.0.lopes@hotmail.com**
+```ruby
+class FullStackDeveloper
+  def initialize
+    @name = "Henrique Del Nero Martins de Araújo Lopes"
+    @role = "Junior Full Stack Developer"
+    @tech_stack = {
+      frontend: ["HTML", "CSS", "JavaScript", "Bootstrap"],
+      backend: ["Ruby", "Rails", "SQL", "ActiveRecord"],
+      devops: ["Docker🐳", "Nginx"],
+      databases: ["PostgreSQL", "MySQL"],
+      misc: ["Sidekiq", "WebSocket", "Action Cable"]
+    }
+    @current_focus = "Expanding expertise in Ruby on Rails"
+  end
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+  def greet
+    puts "Thanks for stopping by! Let's build something awesome together."
+  end
+end
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=henriquednmal&show_icons=true&locale=en&layout=compact" alt="henriquednmal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquednmal&show_icons=true&locale=en" alt="henriquednmal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henriquednmal&" alt="henriquednmal" /></p>
+developer = FullStackDeveloper.new
+developer.greet
+```
 
 
+3. **Ruby on Rails Stack Section:**
+
+## My Ruby on Rails Stack 🛤️
+
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+## Currently Focused On 🎯
+
+- Enhancing my skills in **Ruby on Rails** development.
+- Exploring best practices in **DevOps** for seamless deployment.
+
+## Let's Connect! 🤝
+
+If you're keen on collaborating or have any projects in mind, feel free to reach out:
+
+- ![GitHub followers](https://img.shields.io/github/followers/HenriqueDNMAL?label=Follow&style=social)
