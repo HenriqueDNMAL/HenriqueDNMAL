@@ -44,6 +44,8 @@ If you're keen on collaborating or have any projects in mind, feel free to reach
 
 - ![GitHub followers](https://img.shields.io/github/followers/HenriqueDNMAL?label=Follow&style=social)
 
+## My Stats 📊
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=henriquednmal&show_icons=true&locale=en&layout=compact" alt="henriquednmal" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquednmal&show_icons=true&locale=en" alt="henriquednmal" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henriquednmal&" alt="henriquednmal" /></p>
