@@ -27,7 +27,7 @@ developer.greet
 ```
 
 
-3. **Ruby on Rails Stack Section:**
+**Ruby on Rails Stack Section:**
 
 ## My Ruby on Rails Stack 🛤️
 
