@@ -12,8 +12,8 @@ class FullStackDeveloper
   backend: ["Ruby", "Rails", "SQL", "ActiveRecord"],
   devops: ["Docker🐳"],
   databases: ["PostgreSQL", "MySQL"],
-  misc: ["Sidekiq", "WebSocket", "Action Cable", "Figma", "Git", "Heroku", "Linux", "Postman", "React", "Sass", "SQLite",
- "Vue.js"]
+  misc: ["Sidekiq", "WebSocket", "Action Cable", "Figma", "Git", "Heroku", "Linux", "Postman", "React", "Sass",
+ "SQLite", "Vue.js"]
 }
     @current_focus = "Expanding expertise in Ruby on Rails"
   end
