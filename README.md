@@ -10,7 +10,7 @@ class FullStackDeveloper
     @tech_stack = {
       frontend: ["HTML", "CSS", "JavaScript", "Bootstrap"],
       backend: ["Ruby", "Rails", "SQL", "ActiveRecord"],
-      devops: ["Docker🐳", "Nginx"],
+      devops: ["Docker🐳"],
       databases: ["PostgreSQL", "MySQL"],
       misc: ["Sidekiq", "WebSocket", "Action Cable"]
     }
