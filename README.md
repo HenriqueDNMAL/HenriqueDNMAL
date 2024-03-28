@@ -39,7 +39,7 @@ developer.greet
 - Enhancing my skills in **Ruby on Rails** development.
 - Exploring best practices in **DevOps** for seamless deployment.
 
-## 🚀 My Portfolio
+## My Portfolio 🚀
 
 - **Explore My Work**: Check out my full portfolio [here](https://whip-front-948.notion.site/Henrique-Lopes-e20ee86ab6664fc9a836409a71424da0?pvs=4)
 
