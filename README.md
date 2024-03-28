@@ -39,11 +39,17 @@ developer.greet
 - Enhancing my skills in **Ruby on Rails** development.
 - Exploring best practices in **DevOps** for seamless deployment.
 
+## 🚀 My Portfolio
+
+- **Explore My Work**: Check out my full portfolio [here](https://whip-front-948.notion.site/Henrique-Lopes-e20ee86ab6664fc9a836409a71424da0?pvs=4)
+
 ## Let's Connect! 🤝
 
 If you're keen on collaborating or have any projects in mind, feel free to reach out:
 
 - ![GitHub followers](https://img.shields.io/github/followers/HenriqueDNMAL?label=Follow&style=social)
+- <a href="https://linkedin.com/in/henriquednmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henriquednmal" height="30" width="40" /></a>
+</p>
 
 ## My Stats 📊
 
