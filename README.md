@@ -6,7 +6,7 @@ I'm a passionate Full Stack Developer with a knack for building robust web appli
 class FullStackDeveloper
   def initialize
     @name = "Henrique Del Nero Martins de Araújo Lopes"
-    @role = "Junior Full Stack Developer"
+    @role = "Full Stack Developer"
     @tech_stack = {
   frontend: ["HTML", "CSS", "JavaScript", "Bootstrap"],
   backend: ["Ruby", "Rails", "SQL", "ActiveRecord"],
